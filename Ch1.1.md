@@ -1,0 +1,56 @@
+# GATech-CS1301xl_Computing_In_Python_I
+CH 1.1. Computing
+- Lession 2
+    - Input
+    - Output
+- L3
+    - Compiling
+        - Compiler: translate the code you write into a low level types of commands
+    - Running
+    - Static (Compiled): requrie compilation
+- L4 Console vs GUI
+      - Console-based program
+      - Graphical-based program
+    - The Console
+      - PyCharm
+      - IDLE
+- L5 What is in this Course
+    - Computing vs Programming
+      - Foundations
+      - Language
+      - Domain
+      * fundational principles, implement them in a specific language, and apply them to a particular domain
+    - Code Segments
+- L6
+    - U2. Procedural Programming
+      - writing sequence of commands that are run by the computer in a specific order
+      - Variables
+      - Value
+      - Operators
+    - U3. Control structures
+      - Conditionals: how we build more complex behavior into our programs
+        - if statement
+        - Loop
+        - Functions
+        - Error handling
+    - U4. Data structures
+        - Strings
+        - Lists
+        - Files Input/Output
+        - Dictionaries (hash tables)
+    - U5. Objects & Algorithms
+        - Objects based programming (OBP)
+          - Concepts
+          - Instances
+        - Algorithms
+          - Recursion (the name for functions to call themselves)
+          - Searching
+          - Sorting
+- L7. CS1301xl_Computing_In_Python_I
+      - High-level, portable
+      - Dynanic vs Scripting Mode
+- L8. Set up
+      - Text editor
+      - Desktop DE (PyCharm)
+      - Web-based DE (Skulpt, Vocareum)
+      - Python's interactive mode (IDLE)
